@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Working On → DSA (C++) & Problem Solving<br><br>🎓 Academic Track → B.Tech in CSIT at Reva University<br><br>💻 Core Languages → Java • Python • C++ • C<br><br>🏆 Experience → Skyscanner Front-End Software Engineering Virtual Experience<br><br>🌐 Open Source → Active Core Contributor in GirlScript Summer of Code (GSSoC) 2026<br><br>🌱 Learning → Advanced DSA • Machine Learning<br><br>💬 Ask Me About → Java • DSA • Python • Problem Solving<br><br>⚡ Fun Fact → Consistent learner who enjoys building and contributing to real-world projects.<br>
+🚀 Working On → DSA (Java) & Problem Solving<br><br>🎓 Academic Track → B.Tech in CSIT at Reva University<br><br>💻 Core Languages → Java • Python • C++ • C<br><br>🏆 Experience → Skyscanner Front-End Software Engineering Virtual Experience<br><br>🌐 Open Source → Active Core Contributor in GirlScript Summer of Code (GSSoC) 2026<br><br>🌱 Learning → Advanced DSA • Machine Learning<br><br>💬 Ask Me About → Java • DSA • Python • Problem Solving<br><br>⚡ Fun Fact → Consistent learner who enjoys building and contributing to real-world projects.<br>
 
 
 ## 🌐 Socials:
